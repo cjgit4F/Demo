@@ -1,0 +1,10 @@
+git restore --stage filename after doing the git add
+then git restore . will restore the information
+
+ignore files - using .gitignore - great place for notes
+DS_Store
+.vscode/
+authentication.js
+node_modules
+notes/
+**/*-todo.md
